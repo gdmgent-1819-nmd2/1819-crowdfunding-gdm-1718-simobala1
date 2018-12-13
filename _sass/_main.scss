@@ -3,21 +3,25 @@ html {
     min-height: 100%;
   }
   
-  body {
+body {
     margin-bottom: 40px;
     height: 100%;
   }
   
-  .footer {
+.footer {
     position: absolute;
     bottom: 0;
     width: 100%;
   }
   
-  .footer .container-fluid {
+.footer .container-fluid {
     height: 40px;
   }
   
-  .container {
-      padding:15px;
+.container {
+    padding:15px;
   }
+
+.button {
+    margin: 10px;
+}
