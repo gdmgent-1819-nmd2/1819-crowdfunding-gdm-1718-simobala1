@@ -1,0 +1,23 @@
+html {
+    position: relative;
+    min-height: 100%;
+  }
+  
+  body {
+    margin-bottom: 40px;
+    height: 100%;
+  }
+  
+  .footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+  }
+  
+  .footer .container-fluid {
+    height: 40px;
+  }
+  
+  .container {
+      padding:15px;
+  }
