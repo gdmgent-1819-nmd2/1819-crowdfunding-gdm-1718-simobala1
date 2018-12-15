@@ -9,15 +9,25 @@ body {
   }
   
 
-  
+a {
+  color: rgb(140, 190, 178);
+} 
+
 .footer {
     position: absolute;
     bottom: 0;
     width: 100%;
 }
-    
+
+.btn {
+  margin-top: 10px;
+}
     
 .container {
     padding:15px;
   }
+
+.progress-bar {
+  background-color: rgb(140, 190, 178);
+}
 
